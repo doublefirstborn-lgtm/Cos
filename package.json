@@ -1,10 +1,10 @@
 {
   "name": "cosmas-tool",
   "version": "1.0.0",
-  "description": "COSMAS TOOL Universal Transcription Web App",
+  "description": "COSMAS TOOL Universal Transcription",
   "type": "module",
   "scripts": {
-    "start": "node server.js"
+    "start": "node transcribe.js"
   },
   "dependencies": {
     "axios": "latest",
